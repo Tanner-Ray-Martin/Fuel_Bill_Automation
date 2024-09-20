@@ -1,0 +1,484 @@
+{
+    "root": {
+        "data": {
+            "id": "d4bbwpl199s0",
+            "created": 1726857538786,
+            "text": "Fuel Bill Workflow New"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d4bbx467uy00",
+                    "created": 1726857570542,
+                    "text": "Select File Locations",
+                    "layout_right_offset": {
+                        "x": -271.24999595806025,
+                        "y": -202.49999698251492
+                    },
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bby1hdhoo0",
+                            "created": 1726857643051,
+                            "text": "PDFS",
+                            "layout_right_offset": {
+                                "x": 14,
+                                "y": -25
+                            },
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bc0r9bsds0",
+                                    "created": 1726857855889,
+                                    "text": "Email"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d4bc3ns2qbc0",
+                                            "created": 1726858083408,
+                                            "text": "Run Email Scanner",
+                                            "layout_right_offset": {
+                                                "x": 33,
+                                                "y": -34
+                                            }
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d4bc0urhmfs0",
+                                    "created": 1726857863517,
+                                    "text": "Browse"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc0zfmmdc0",
+                            "created": 1726857873684,
+                            "text": "Best Pass",
+                            "layout_right_offset": {
+                                "x": 53,
+                                "y": -30
+                            },
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bc142hjcw0",
+                                    "created": 1726857883773,
+                                    "text": "Email"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d4bc3vdpa3s0",
+                                            "created": 1726858099953,
+                                            "text": "Run Email Scanner",
+                                            "layout_right_offset": {
+                                                "x": 4,
+                                                "y": -23
+                                            }
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d4bc17au5h40",
+                                    "created": 1726857890808,
+                                    "text": "Browse"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc1ctz88g0",
+                            "created": 1726857902850,
+                            "text": "Wex Data",
+                            "layout_right_offset": {
+                                "x": 109,
+                                "y": -36
+                            },
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bc1j4ssjs0",
+                                    "created": 1726857916565,
+                                    "text": "Wex Login"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d4bc3zwq93c0",
+                                            "created": 1726858109810,
+                                            "text": "Login to wex and download",
+                                            "layout_right_offset": {
+                                                "x": 15,
+                                                "y": -20
+                                            }
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d4bc1mu3khs0",
+                                    "created": 1726857924625,
+                                    "text": "Browse"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc23b6b080",
+                            "created": 1726857960486,
+                            "text": "Man Hours",
+                            "layout_right_offset": {
+                                "x": 63,
+                                "y": -31
+                            },
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bc27gkvmw0",
+                                    "created": 1726857969520,
+                                    "text": "Trust",
+                                    "layout_right_offset": {
+                                        "x": 25,
+                                        "y": -5
+                                    }
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d4bc4e2liio0",
+                                            "created": 1726858140640,
+                                            "text": "Login to trust and download",
+                                            "layout_right_offset": {
+                                                "x": 14,
+                                                "y": -36
+                                            }
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d4bc2agmjeo0",
+                                    "created": 1726857976053,
+                                    "text": "Browse",
+                                    "layout_right_offset": {
+                                        "x": 36,
+                                        "y": -2
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d4bc4ky4llc0",
+                                    "created": 1726858155607,
+                                    "text": "Scan",
+                                    "layout_right_offset": {
+                                        "x": 51,
+                                        "y": 7
+                                    }
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d4bc4onme600",
+                                            "created": 1726858163679,
+                                            "text": "Run Folder Scanner"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc2nvg6q00",
+                            "created": 1726858005247,
+                            "text": "Master Fleet List",
+                            "layout_right_offset": {
+                                "x": 64,
+                                "y": -15
+                            },
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bc2riy2yo0",
+                                    "created": 1726858013199,
+                                    "text": "Share Point"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d4bc4ubsxm80",
+                                            "created": 1726858176025,
+                                            "text": "Login to sharepoint and download"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d4bc2ve9xu00",
+                                    "created": 1726858021623,
+                                    "text": "Browse"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc8qihvso0",
+                            "created": 1726858481180,
+                            "text": "Fuel Charges"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc8vmurbs0",
+                            "created": 1726858492327,
+                            "text": "Fuel Bill"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4bbyn6lfuw0",
+                    "created": 1726857690288,
+                    "text": "Run Data Cleaner",
+                    "layout": null,
+                    "layout_bottom_offset": {
+                        "x": -22,
+                        "y": 44
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d4bbyy94gy80",
+                    "created": 1726857714385,
+                    "text": "Validate / Update information",
+                    "layout_right_offset": {
+                        "x": -58,
+                        "y": -91
+                    },
+                    "layout_bottom_offset": {
+                        "x": -24,
+                        "y": 102
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d4bbz8bkh340",
+                    "created": 1726857736302,
+                    "text": "Select Save Locations",
+                    "layout_right_offset": {
+                        "x": 98,
+                        "y": -81
+                    },
+                    "layout_bottom_offset": {
+                        "x": -46,
+                        "y": 144
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d4bbzgdwsrc0",
+                    "created": 1726857753857,
+                    "text": "Generate Reports",
+                    "layout_right_offset": {
+                        "x": 217,
+                        "y": -140
+                    },
+                    "layout_bottom_offset": {
+                        "x": -70,
+                        "y": 206
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bc5n1zelc0",
+                            "created": 1726858238558,
+                            "text": "Spreadsheets",
+                            "layout_right_offset": {
+                                "x": 38,
+                                "y": -25
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc5reuhx40",
+                            "created": 1726858248043,
+                            "text": "Charts",
+                            "layout_right_offset": {
+                                "x": 64,
+                                "y": -16
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc5uhora80",
+                            "created": 1726858254746,
+                            "text": "HTML",
+                            "layout_right_offset": {
+                                "x": 64,
+                                "y": 0
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4bc020e08o0",
+                    "created": 1726857800929,
+                    "text": "Send Email",
+                    "layout_right_offset": {
+                        "x": 138,
+                        "y": -208
+                    },
+                    "layout_bottom_offset": {
+                        "x": -54,
+                        "y": 266
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bc5xtexjk0",
+                            "created": 1726858261985,
+                            "text": "To"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc61sdisg0",
+                            "created": 1726858270629,
+                            "text": "Include",
+                            "layout_right_offset": {
+                                "x": 27,
+                                "y": 151
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bc64pc2sg0",
+                                    "created": 1726858276976,
+                                    "text": "Charts"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d4bc67ne74o0",
+                                    "created": 1726858283388,
+                                    "text": "Spreadsheets",
+                                    "layout_right_offset": {
+                                        "x": 76,
+                                        "y": 8
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d4bc72jk4rs0",
+                                    "created": 1726858350637,
+                                    "text": "Errors"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc77liiqw0",
+                            "created": 1726858361639,
+                            "text": "CC",
+                            "layout_right_offset": {
+                                "x": 19,
+                                "y": -165
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc7c44j0o0",
+                            "created": 1726858371471,
+                            "text": "BCC",
+                            "layout_right_offset": {
+                                "x": 32,
+                                "y": -163
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bc7rjpg140",
+                            "created": 1726858405065,
+                            "text": "Subject",
+                            "layout_right_offset": {
+                                "x": 28,
+                                "y": -131
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "filetree",
+    "theme": "classic",
+    "version": "1.4.43"
+}
