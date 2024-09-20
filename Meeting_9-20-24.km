@@ -1,0 +1,380 @@
+{
+    "root": {
+        "data": {
+            "id": "d4ba40771k00",
+            "created": 1726852468223,
+            "text": "Admin Fuel Bill Process"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d4ba4kry31c0",
+                    "created": 1726852513014,
+                    "text": "Email From Julie, Lidsay, or Haley",
+                    "layout_mind_offset": {
+                        "x": -80,
+                        "y": 54
+                    },
+                    "layout_right_offset": {
+                        "x": -222.74999741092313,
+                        "y": -49.50000078231102
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4ba6hcb7b40",
+                            "created": 1726852662266,
+                            "text": "Best Pass Toll Details",
+                            "layout_right_offset": {
+                                "x": 112,
+                                "y": -120
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4baxdkbwe80",
+                                    "created": 1726854769877,
+                                    "text": "L:\\Rollout\\Vehicle Management - SC\\Best Pass\\Statements - Invoices\\2024\\2024-08 Best Pass Toll Details.xlsx",
+                                    "layout_right_offset": {
+                                        "x": 45,
+                                        "y": 44
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4ba6z6htvs0",
+                            "created": 1726852701097,
+                            "text": "Wex Financial Summary PDF",
+                            "layout_right_offset": {
+                                "x": 72,
+                                "y": -113
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bauigv51s0",
+                                    "created": 1726854545458,
+                                    "text": "L:\\Rollout\\Vehicle Management - SC\\Fuel Bills\\2024\\08 - August 2024\\August-Financial Summary.pdf",
+                                    "layout_right_offset": {
+                                        "x": 33,
+                                        "y": 45
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4ba7d2oli80",
+                            "created": 1726852731341,
+                            "text": "Purchase Activity PDF",
+                            "layout_right_offset": {
+                                "x": 88,
+                                "y": -111
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4baurraqsw0",
+                                    "created": 1726854565680,
+                                    "text": "L:\\Rollout\\Vehicle Management - SC\\Fuel Bills\\2024\\08 - August 2024\\August-Purchase Activity.pdf",
+                                    "layout_right_offset": {
+                                        "x": 57,
+                                        "y": 45
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4ba82t7swo0",
+                    "created": 1726852787365,
+                    "text": "Wex Export",
+                    "layout_mind_offset": {
+                        "x": 855,
+                        "y": 316
+                    },
+                    "layout_right_offset": {
+                        "x": -20.74999986961484,
+                        "y": -133.99999992549408
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4ba8qi5dy00",
+                            "created": 1726852838939,
+                            "text": "Itemized by month",
+                            "layout_right_offset": {
+                                "x": 36,
+                                "y": -16
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4ba8zgkev40",
+                            "created": 1726852858434,
+                            "text": "Does not Contain",
+                            "layout_right_offset": {
+                                "x": 44,
+                                "y": 138
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4ba95c3tg80",
+                                    "created": 1726852871225,
+                                    "text": "Driver"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d4ba982764g0",
+                                    "created": 1726852877156,
+                                    "text": "Job Number"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d4ba9bwqt3s0",
+                                    "created": 1726852885534,
+                                    "text": "Phase"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4ba9m34pa80",
+                            "created": 1726852907688,
+                            "text": "Remove Unnecessary Columns",
+                            "layout_right_offset": {
+                                "x": 203,
+                                "y": -133
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4ba9w8k6280",
+                            "created": 1726852929784,
+                            "text": "Change Columns",
+                            "layout_right_offset": {
+                                "x": 347,
+                                "y": -135
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4baaceyevs0",
+                                    "created": 1726852964999,
+                                    "text": "First Name and Last Name -> Last, First",
+                                    "layout_right_offset": {
+                                        "x": 81,
+                                        "y": -27
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4babs5p8ps0",
+                            "created": 1726853077632,
+                            "text": "Verify Amounts Match Financial Summary",
+                            "layout_right_offset": {
+                                "x": 54,
+                                "y": -284
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4back49ofk0",
+                    "created": 1726853138495,
+                    "text": "Trust Export",
+                    "layout_right_offset": {
+                        "x": 140.25000005587924,
+                        "y": -164.99999932944775
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bacqpcpc00",
+                            "created": 1726853152831,
+                            "text": "Man Hours Labor"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bacuh0fcw0",
+                                    "created": 1726853161034,
+                                    "text": "Used to Verify Job Numbers",
+                                    "layout_right_offset": {
+                                        "x": 54,
+                                        "y": -54
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d4baws2uc2o0",
+                                    "created": 1726854723107,
+                                    "text": "L:\\Rollout\\Vehicle Management - SC\\Fuel Bills\\2024\\08 - August 2024\\08 - August 2024 Man Hours Labor.xlsx",
+                                    "layout_right_offset": {
+                                        "x": 51,
+                                        "y": -12
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4badpfyjj40",
+                    "created": 1726853228450,
+                    "text": "Sharepoint Export",
+                    "layout_right_offset": {
+                        "x": 325.7499956227841,
+                        "y": -133.24999908730388
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4badw42kog0",
+                            "created": 1726853242969,
+                            "text": "Fleet -> Master Fleet List",
+                            "layout_right_offset": {
+                                "x": 9,
+                                "y": -62
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bazew64ug0",
+                                    "created": 1726854929498,
+                                    "text": "L:\\Rollout\\Vehicle Management - SC\\2024 Vehicle Master.xlsx",
+                                    "layout_right_offset": {
+                                        "x": 38,
+                                        "y": 33
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4batgdz3w80",
+                            "created": 1726854462566,
+                            "text": "Charges Spreadsheet:",
+                            "layout_right_offset": {
+                                "x": 39,
+                                "y": -66
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bazq813mw0",
+                                    "created": 1726854954159,
+                                    "text": "L:\\Rollout\\Vehicle Management - SC\\Fuel Bills\\2024\\08 - August 2024\\08 - Aust 2024 Fuel Charges.xlsx",
+                                    "layout_right_offset": {
+                                        "x": 19,
+                                        "y": 44
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d4batxyjqq80",
+                            "created": 1726854500815,
+                            "text": "Fuel Bill Spreadsheet",
+                            "layout_right_offset": {
+                                "x": 38,
+                                "y": -60
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d4bb01878sw0",
+                                    "created": 1726854978114,
+                                    "text": "L:\\Rollout\\Vehicle Management - SC\\Fuel Bills\\2024\\08 - August 2024\\08 August 2024 Fuel Bill.xlsm",
+                                    "layout_right_offset": {
+                                        "x": 10,
+                                        "y": 56
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4bb1ixm0u80",
+                    "created": 1726855095020,
+                    "text": "Fuel Bill Sorter",
+                    "layout_right_offset": {
+                        "x": 323.7499951757487,
+                        "y": -176.24999737367034
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bb1obtxsg0",
+                            "created": 1726855106764,
+                            "text": "L:\\Rollout\\Vehicle Management - SC\\Fuel Bills\\Fuel Bill Sorter MASTER.xlsm",
+                            "layout_right_offset": {
+                                "x": 67.49999899417185,
+                                "y": 76.24999886378646
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "classic",
+    "version": "1.4.43"
+}

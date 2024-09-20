@@ -1,0 +1,285 @@
+{
+    "root": {
+        "data": {
+            "id": "d4bbmag6kvk0",
+            "created": 1726856722200,
+            "text": "Fuel Bill Automation Project Steps"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d4bbmuhjqy80",
+                    "created": 1726856765818,
+                    "text": "Folder Structure",
+                    "layout_fish-bone-master_offset": {
+                        "x": -9,
+                        "y": -31
+                    },
+                    "layout_bottom_offset": {
+                        "x": -191,
+                        "y": 8
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d4bbnaaquns0",
+                    "created": 1726856800235,
+                    "text": "File Readers",
+                    "layout_fish-bone-master_offset": {
+                        "x": 139,
+                        "y": -48
+                    },
+                    "layout_bottom_offset": {
+                        "x": -179,
+                        "y": 161
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bbnibigc80",
+                            "created": 1726856817696,
+                            "text": "Excel Reader"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbnni2dww0",
+                            "created": 1726856828976,
+                            "text": "PDF Reader"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbnqq4uls0",
+                            "created": 1726856835994,
+                            "text": "CSV Reader"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbnuhzdhk0",
+                            "created": 1726856844208,
+                            "text": "HTML Reader"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4bbo9nrbmw0",
+                    "created": 1726856877209,
+                    "text": "Data Cleaners",
+                    "layout_fish-bone-master_offset": {
+                        "x": -2,
+                        "y": 184
+                    },
+                    "layout_bottom_offset": {
+                        "x": -174,
+                        "y": 61
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bborbohig0",
+                            "created": 1726856915661,
+                            "text": "Clean Spreadsheets",
+                            "layout_fish-bone-slave_offset": {
+                                "x": 33,
+                                "y": 117
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbp0nd65c0",
+                            "created": 1726856935959,
+                            "text": "Clean PDFS",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbu8u7c940",
+                            "created": 1726857345607,
+                            "text": "Fix Columns"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbuetb9y00",
+                            "created": 1726857358614,
+                            "text": "Combine Data"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbuvb9feg0",
+                            "created": 1726857394528,
+                            "text": "Filter Data"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4bbq2ztii80",
+                    "created": 1726857019429,
+                    "text": "Scrapers",
+                    "expandState": "expand",
+                    "layout_bottom_offset": {
+                        "x": 13,
+                        "y": 71
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bbqrz3wag0",
+                            "created": 1726857073806,
+                            "text": "Email"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbqiftlew0",
+                            "created": 1726857053049,
+                            "text": "Trust"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbqxlym1k0",
+                            "created": 1726857086072,
+                            "text": "Wex"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbr0ptq400",
+                            "created": 1726857092836,
+                            "text": "Sharepoint"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbr6c2sbk0",
+                            "created": 1726857105065,
+                            "text": "L Drive"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbr9ps1bk0",
+                            "created": 1726857112424,
+                            "text": "Local"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4bbrph03280",
+                    "created": 1726857146722,
+                    "text": "Validation",
+                    "layout_bottom_offset": {
+                        "x": -278,
+                        "y": 128
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bbulc44s00",
+                            "created": 1726857372811,
+                            "text": "Names"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbuoc1ha80",
+                            "created": 1726857379337,
+                            "text": "Amounts"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbur5g8bc0",
+                            "created": 1726857385469,
+                            "text": "Job Numbers"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d4bbs1giejc0",
+                    "created": 1726857172813,
+                    "text": "Reports",
+                    "layout_bottom_offset": {
+                        "x": -100,
+                        "y": 155
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d4bbst9llpc0",
+                            "created": 1726857233345,
+                            "text": "Errors"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbsvx7j740",
+                            "created": 1726857239126,
+                            "text": "Charts"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbsyhlb080",
+                            "created": 1726857244712,
+                            "text": "Emails"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d4bbt1buf5k0",
+                            "created": 1726857250895,
+                            "text": "Spreadsheets"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "filetree",
+    "theme": "classic-compact",
+    "version": "1.4.43"
+}
